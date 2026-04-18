@@ -68,6 +68,7 @@
 5. **Decay**: Dead plants and animals rot, and decomposers release their carbon back to the soil/air.
 
 **The Nitrogen Cycle**
+
 6. **Importance of Nitrogen**: Needed for proteins. Air is 78% Nitrogen, but most plants cannot use it directly!
 7. **Nitrogen Fixation**: Special bacteria (like Rhizobium) or lightning pull nitrogen from air into the soil.
 8. **Ammonification**: Dead animals rot, and bacteria turn their proteins into ammonia.
@@ -75,10 +76,12 @@
 10. **Denitrification**: Extra nitrates in soil are turned back into nitrogen gas by bacteria, completing the loop.
 
 **The Phosphorus Cycle**
+
 11. **Importance**: Uniquely lacks an atmospheric gas phase completely. It is crucial for DNA and cellular energy.
 12. **Mechanism**: Phosphorus travels extremely slowly from weathering rocks into the soil, is absorbed by plant roots, eaten by animals, and eventually washes into oceans where it settles in sediments.
 
 **The Water Cycle**
+
 13. **Mechanism**: Driven entirely by the Sun. It loops continuously via Evaporation (liquid to gas), Condensation (clouds), and Precipitation (rain/snow).
 14. **Importance**: Maintains Earth's fragile freshwater balance necessary for all ecosystems to function.
 
