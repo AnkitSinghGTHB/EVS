@@ -76,6 +76,7 @@
 5. **Drawbacks**: Turbines can be noisy for nearby residents and sometimes pose a fatal risk to migrating bird populations.
 
 **Biomass and Biogas Generation**
+
 6. **The Source**: Biomass consists of discarded organic materials like dead agricultural crops, leftover municipal garbage, and animal/cow dung.
 7. **Direct Combustion**: Dry woody biomass can simply be burned to directly boil massive water tanks, create high-pressure steam, and spin electrical turbines.
 8. **Biogas Production**: Wet waste (like dung) is put into an airtight, sealed digester tank mixed entirely with water.
